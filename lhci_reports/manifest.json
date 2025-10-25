@@ -1,0 +1,26 @@
+[
+  {
+    "url": "http://localhost:54534/",
+    "isRepresentativeRun": false,
+    "htmlPath": "C:\\Users\\Sharvari More\\OneDrive\\Documents\\NGO\\AI_Agent_n8n\\ai-agent-app\\lhci_reports\\localhost--2025_10_02_21_49_14.report.html",
+    "jsonPath": "C:\\Users\\Sharvari More\\OneDrive\\Documents\\NGO\\AI_Agent_n8n\\ai-agent-app\\lhci_reports\\localhost--2025_10_02_21_49_14.report.json",
+    "summary": {
+      "performance": 0.87,
+      "accessibility": 0.94,
+      "best-practices": 0.79,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://localhost:54534/",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\Users\\Sharvari More\\OneDrive\\Documents\\NGO\\AI_Agent_n8n\\ai-agent-app\\lhci_reports\\localhost--2025_10_02_21_48_56.report.html",
+    "jsonPath": "C:\\Users\\Sharvari More\\OneDrive\\Documents\\NGO\\AI_Agent_n8n\\ai-agent-app\\lhci_reports\\localhost--2025_10_02_21_48_56.report.json",
+    "summary": {
+      "performance": 0.85,
+      "accessibility": 0.94,
+      "best-practices": 0.79,
+      "seo": 1
+    }
+  }
+]

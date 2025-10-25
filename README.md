@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Cogniflow — AI-Powered Submission Analytics Platform
+A full-stack React application integrating Clerk authentication, role-based dashboards, and n8n and Airtable automation, enabling real-time submission tracking, analytics visualization with Chart.js, unit testing with Jest and data export to Excel / PDF.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React app:
+### Contact Form:
+<img width="1909" height="983" alt="image" src="https://github.com/user-attachments/assets/1f64a98a-7a2b-484e-a334-2b0e2057508e" />
 
-## Available Scripts
+### Submission Dashboard:
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/bce9e97b-637e-4eb3-b1a5-15e293929c58" />
 
-In the project directory, you can run:
+### Analytics:
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/8376893d-9ee7-4e8d-8844-2833a88b3c5b" />
 
-### `npm start`
+## n8n workflows:
+### POST workflow:
+<img width="1908" height="972" alt="image" src="https://github.com/user-attachments/assets/7b874029-3f9f-4d83-a240-9a060863dcc6" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### GET workflow:
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/1c3ae1c7-bd4c-4c06-95ac-b9931692d3c0" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### DELETE workflow:
+<img width="1915" height="976" alt="image" src="https://github.com/user-attachments/assets/8f3ade1d-3895-4d21-ba94-73bf4b28faf8" />
 
-### `npm test`
+## Airtable database:
+<img width="1916" height="974" alt="image" src="https://github.com/user-attachments/assets/738cd11c-7a98-42b5-ba74-606f75a104a5" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Clerk Auth:
+<img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/c246992f-6197-4019-b1ca-8130ea2b2103" />
 
-### `npm run build`
+## Lighthouse Audit:
+<img width="1916" height="532" alt="image" src="https://github.com/user-attachments/assets/6474d872-c8b7-4249-9e79-7134b343c896" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
